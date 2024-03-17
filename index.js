@@ -15,7 +15,7 @@ const server = [
 ];
 
 
-app.get('/data', (req, res) => {
+app.get('/', (req, res) => {
     res.json(server);
 });
 
