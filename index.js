@@ -11,7 +11,8 @@ app.use(express.json());
 
 const server = [
     {name: "africa-south-42123.packetriot.net", port: 22018},
-    {name: "asia-south-36774.packetriot.net", port: 22624}
+    {name: "asia-south-36774.packetriot.net", port: 22624},
+    {name: "us-west-11608.packetriot.net", port: 22641}
 ];
 
 
